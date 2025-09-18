@@ -1,0 +1,7 @@
+2025-09-18 16:22:59,019 - root - ERROR - Критическая ошибка: BOT_TOKEN is required
+2025-09-18 16:25:42,569 - src.services.database - ERROR - Ошибка подключения к БД: column "created_at" does not exist
+
+2025-09-18 16:25:42,570 - src.services.database - ERROR - Ошибка инициализации БД: column "created_at" does not exist
+
+2025-09-18 16:25:42,570 - root - ERROR - Критическая ошибка: column "created_at" does not exist
+
