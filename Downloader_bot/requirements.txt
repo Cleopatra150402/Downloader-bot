@@ -1,9 +1,0 @@
-python-telegram-bot==20.7
-yt-dlp==2023.9.24
-psycopg2-binary==2.9.9
-python-dotenv==1.0.0
-pytest==7.4.3
-pytest-asyncio==0.21.1
-pytest-cov==4.1.0
-pytest-mock==3.12.0
-
